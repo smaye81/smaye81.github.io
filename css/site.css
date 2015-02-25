@@ -1,0 +1,15 @@
+.main {
+    font-family: 'Oxygen Mono', 'Helvetic Neue', 'Helvetica';
+    width: 100%;
+    margin: 0 auto;
+    min-width: 954px;
+    padding: 0 18px 18px 18px;
+    background: url(../img/gridbg.png) 50% 0;
+}
+.content {
+    position: relative;
+}
+.element {
+    text-align: center;
+    height: 100px;
+}
